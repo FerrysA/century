@@ -10,8 +10,7 @@
         return a;
 
     }
-    
-   ## понравившееся решение, автор scottyboutin
+  ## понравившееся решение, автор scottyboutin
     public static int century(int number) {
         return (number + 99) / 100;
      }
